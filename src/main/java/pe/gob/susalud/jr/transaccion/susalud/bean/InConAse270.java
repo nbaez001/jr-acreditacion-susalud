@@ -73,7 +73,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setIdRemitente(String idRemitente) {
-/*  76 */     this.idRemitente = idRemitente.trim();
+/*  76 */     this.idRemitente = idRemitente;
 /*     */   }
 /*     */   
 /*     */   public String getIdReceptor() {
@@ -81,7 +81,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setIdReceptor(String idReceptor) {
-/*  84 */     this.idReceptor = idReceptor.trim();
+/*  84 */     this.idReceptor = idReceptor;
 /*     */   }
 /*     */   
 /*     */   public String getFeTransaccion() {
