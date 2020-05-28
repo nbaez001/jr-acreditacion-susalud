@@ -32,7 +32,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setNoTransaccion(String noTransaccion) {
-/*  35 */     this.noTransaccion = noTransaccion.trim();
+/*  35 */     this.noTransaccion = noTransaccion;
 /*     */   }
 /*     */   
 /*     */   public String getIdRemitente() {
@@ -40,7 +40,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setIdRemitente(String idRemitente) {
-/*  43 */     this.idRemitente = idRemitente.trim();
+/*  43 */     this.idRemitente = idRemitente;
 /*     */   }
 /*     */   
 /*     */   public String getIdReceptor() {
@@ -48,7 +48,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setIdReceptor(String idReceptor) {
-/*  51 */     this.idReceptor = idReceptor.trim();
+/*  51 */     this.idReceptor = idReceptor;
 /*     */   }
 /*     */   
 /*     */   public String getFeTransaccion() {
@@ -56,7 +56,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setFeTransaccion(String feTransaccion) {
-/*  59 */     this.feTransaccion = feTransaccion.trim();
+/*  59 */     this.feTransaccion = feTransaccion;
 /*     */   }
 /*     */   
 /*     */   public String getHoTransaccion() {
@@ -64,7 +64,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setHoTransaccion(String hoTransaccion) {
-/*  67 */     this.hoTransaccion = hoTransaccion.trim();
+/*  67 */     this.hoTransaccion = hoTransaccion;
 /*     */   }
 /*     */   
 /*     */   public String getIdCorrelativo() {
@@ -72,7 +72,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setIdCorrelativo(String idCorrelativo) {
-/*  75 */     this.idCorrelativo = idCorrelativo.trim();
+/*  75 */     this.idCorrelativo = idCorrelativo;
 /*     */   }
 /*     */   
 /*     */   public String getIdTransaccion() {
@@ -80,7 +80,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setIdTransaccion(String idTransaccion) {
-/*  83 */     this.idTransaccion = idTransaccion.trim();
+/*  83 */     this.idTransaccion = idTransaccion;
 /*     */   }
 /*     */   
 /*     */   public String getTiFinalidad() {
@@ -88,7 +88,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setTiFinalidad(String tiFinalidad) {
-/*  91 */     this.tiFinalidad = tiFinalidad.trim();
+/*  91 */     this.tiFinalidad = tiFinalidad;
 /*     */   }
 /*     */   
 /*     */   public String getCaIPRESS() {
@@ -96,7 +96,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setCaIPRESS(String caIPRESS) {
-/*  99 */     this.caIPRESS = caIPRESS.trim();
+/*  99 */     this.caIPRESS = caIPRESS;
 /*     */   }
 /*     */   
 /*     */   public String getNoIPRESS() {
@@ -104,7 +104,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setNoIPRESS(String noIPRESS) {
-/* 107 */     this.noIPRESS = noIPRESS.trim();
+/* 107 */     this.noIPRESS = noIPRESS;
 /*     */   }
 /*     */   
 /*     */   public String getTiDoIPRESS() {
@@ -112,7 +112,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setTiDoIPRESS(String tiDoIPRESS) {
-/* 115 */     this.tiDoIPRESS = tiDoIPRESS.trim();
+/* 115 */     this.tiDoIPRESS = tiDoIPRESS;
 /*     */   }
 /*     */   
 /*     */   public String getNuRucIPRESS() {
@@ -120,7 +120,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setNuRucIPRESS(String nuRucIPRESS) {
-/* 123 */     this.nuRucIPRESS = nuRucIPRESS.trim();
+/* 123 */     this.nuRucIPRESS = nuRucIPRESS;
 /*     */   }
 /*     */   
 /*     */   public String getNuControl() {
@@ -128,7 +128,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setNuControl(String nuControl) {
-/* 131 */     this.nuControl = nuControl.trim();
+/* 131 */     this.nuControl = nuControl;
 /*     */   }
 /*     */   
 /*     */   public String getNuControlST() {
@@ -136,7 +136,7 @@
 /*     */   }
 /*     */   
 /*     */   public void setNuControlST(String nuControlST) {
-/* 139 */     this.nuControlST = nuControlST.trim();
+/* 139 */     this.nuControlST = nuControlST;
 /*     */   }
 /*     */ }
 
